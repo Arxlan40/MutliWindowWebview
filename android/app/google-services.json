@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729257674514",
+    "project_id": "mindyknows",
+    "storage_bucket": "mindyknows.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729257674514:android:536cb7fc435bb1059fd5cb",
+        "android_client_info": {
+          "package_name": "com.mindyKNOWS.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729257674514-73g26r3n2kj7ldngj722qttevre8ejr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh0h8UNZ1th5u6_ntSkM_RXm-VR5uOOLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729257674514-73g26r3n2kj7ldngj722qttevre8ejr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
