@@ -1,4 +1,4 @@
-package com.mindyKNOWS.app
+package com.farneksecurity.app
 
 import io.flutter.embedding.android.FlutterActivity
 

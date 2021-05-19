@@ -47,10 +47,10 @@ class _SplashScreenState extends State<SplashScreen> {
         body: Container(
       height: _height,
       width: _width,
-      color: Colors.white,
+      color: Color(0xff0c0c0c),
       child: Image.asset(
         'asset/splash.png',
-        fit: BoxFit.fitHeight,
+        fit: BoxFit.fitWidth,
       ),
     ));
   }

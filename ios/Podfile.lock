@@ -133,7 +133,7 @@ SPEC CHECKSUMS:
   FirebaseInstallations: 466c7b4d1f58fe16707693091da253726a731ed2
   FirebaseInstanceID: bd3ffc24367f901a43c063b36c640b345a4a5dd1
   FirebaseMessaging: 5eca4ef173de76253352511aafef774caa1cba2a
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
   flutter_inappwebview: 69dfbac46157b336ffbec19ca6dfd4638c7bf189
   flutter_local_notifications: 9e4738ce2471c5af910d961a6b7eadcf57c50186
   GoogleDataTransport: f56af7caa4ed338dc8e138a5d7c5973e66440833

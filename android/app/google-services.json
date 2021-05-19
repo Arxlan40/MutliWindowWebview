@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "729257674514",
-    "project_id": "mindyknows",
-    "storage_bucket": "mindyknows.appspot.com"
+    "project_number": "458569568613",
+    "project_id": "farnek-security-services",
+    "storage_bucket": "farnek-security-services.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:729257674514:android:536cb7fc435bb1059fd5cb",
+        "mobilesdk_app_id": "1:458569568613:android:e678b85c2063a1e130d18c",
         "android_client_info": {
-          "package_name": "com.mindyKNOWS.app"
+          "package_name": "com.farneksecurity.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "729257674514-73g26r3n2kj7ldngj722qttevre8ejr7.apps.googleusercontent.com",
+          "client_id": "458569568613-dkm8lcds44ig1r0scjeap97rvn6cclgn.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDh0h8UNZ1th5u6_ntSkM_RXm-VR5uOOLs"
+          "current_key": "AIzaSyDlorTng13BlxMZx36I8qkWvhdlgvZdgmY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "729257674514-73g26r3n2kj7ldngj722qttevre8ejr7.apps.googleusercontent.com",
+              "client_id": "458569568613-dkm8lcds44ig1r0scjeap97rvn6cclgn.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "458569568613-vd2esdhqnepil05rgugja2dbkaksupde.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.farneksecurity.app"
+              }
             }
           ]
         }
